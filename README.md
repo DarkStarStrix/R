@@ -23,8 +23,6 @@ To run the analysis scripts, ensure you have the required R packages installed. 
 install.packages(c("ggplot2", "forecast", "other_packages"))
 
 
-Great! Based on the additional information about your datasets and the focus on data analysis, including logistic regression, I've updated the GitHub README template accordingly. Please customize it further based on the specifics of your project.
-
 markdown
 Copy code
 # Statistical Analysis with R
